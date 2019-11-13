@@ -1,1 +1,3 @@
-$(".remove").remove();
+$(function(){
+  $('.remove').remove();
+});
